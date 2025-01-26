@@ -4,7 +4,18 @@ from collections import defaultdict
 
 urls = {
     "https://bugbountylabs.com/redirection/": 2,
-    "https://bugbountylabs.com/hidden-redirection/": 2
+    "https://bugbountylabs.com/hidden-redirection/": 2,
+    "https://bugbountylabs.com/loginn/": 4,
+    "https://bugbountylabs.com/moto-pasion/": 4,
+    "https://bugbountylabs.com/corsy/": 4,
+    "https://bugbountylabs.com/listing/": 2,
+    "https://bugbountylabs.com/dogshow/": 4,
+    "https://bugbountylabs.com/el-rincon-del-mongo/": 2,
+    "https://bugbountylabs.com/forgery/": 2,
+    "https://bugbountylabs.com/entity/": 2,
+    "https://bugbountylabs.com/escape/": 2,
+    "https://bugbountylabs.com/access/": 2,
+    "https://bugbountylabs.com/reflection/": 2
 }
 
 def obtener_nombres_writeups(url):
